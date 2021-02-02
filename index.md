@@ -175,6 +175,8 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
+  <br>
+  <strong>Installations</strong>
   For this workshop, we will be working with Jupyter Notebooks, so learners should install the latest version of <a href="https://www.anaconda.com/products/individual">Anaconda</a> onto their devices before the workshop.
   We are using the Anaconda Instance because it comes with Jupyter Notebooks, Jupyter Lab, and many more applications rolled into a happy datascience bundle. 
 </p>
