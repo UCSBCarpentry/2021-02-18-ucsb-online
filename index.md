@@ -177,8 +177,9 @@ Modify the block below if there are any special requirements.
   {% endif %}
   <br>
   <strong>Installations</strong>
-  For this workshop, we will be working with Jupyter Notebooks, so learners should install the latest version of <strong><a href="https://www.anaconda.com/products/individual">Anaconda</a></strong> onto their devices before the workshop.
-  We are using the Anaconda Instance because it comes with Jupyter Notebooks, Jupyter Lab, and many more applications rolled into a happy datascience bundle. 
+  For this workshop, learners should install the latest version of <strong><a href="https://www.anaconda.com/products/individual">Anaconda</a></strong> onto their 
+  devices before the workshop.We are using the Anaconda Instance because it comes with Jupyter Notebooks, Jupyter Lab, and many more applications rolled into a 
+  happy datascience bundle. 
 </p>
 
 {% comment %}
